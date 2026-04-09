@@ -71,3 +71,11 @@ Extracted:
 ## How to Run
 
 1. Install pandas:
+2. Run the notebook:
+
+
+---
+
+## Author
+
+This project was completed as part of a data science bootcamp assessment.
